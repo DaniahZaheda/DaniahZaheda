@@ -4,7 +4,6 @@
 
 🚀 Passionate about Software Engineering, Full-Stack Development, QA, and building real projects.
 
----
 
 ## 🛠️ Skills
 
@@ -14,14 +13,12 @@
 - **Software Testing:** Manual Testing, Bug Reporting, Test Cases
 - **Tools:** Git, GitHub, VS Code
 
----
 
 ## 📌 About Me
 
 I enjoy learning new technologies, building web projects, and improving my programming and testing skills.  
 My goal is to grow as a software engineer and work on meaningful real-world projects.
 
----
 
 ## 📫 Connect with Me
 
